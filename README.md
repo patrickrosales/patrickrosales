@@ -1,16 +1,57 @@
-## Hi there 👋
+# Patrick Rosales
 
-<!--
-**patrickrosales/patrickrosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer** | Toronto, Canada 🇨🇦
 
-Here are some ideas to get you started:
+Building scalable web applications with modern technologies. Passionate about clean code, user experience, and open-source collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Quick Facts
+
+```javascript
+const patrick = {
+    location: "Toronto, Canada",
+    role: "Senior Software Engineer",
+    languages: ["JavaScript", "TypeScript", "Python"],
+    frameworks: ["React", "Node.js", "Next.js", "Ember.js", "Vue.js", "Svelte"],
+    currentFocus: ["System Design", "Open Source"],
+    contact: {
+        email: "patrick.rosales@gmail.com",
+        linkedin: "linkedin.com/in/patrick-rosales"
+    }
+};
+```
+
+---
+
+## 💻 Tech Arsenal
+
+**Frontend:** React · TypeScript · Node.js · Svelte · TailwindCSS
+
+**Backend:** Ruby on Rails · Elixir · Node.js · Express · Python
+
+**Database:** PostgreSQL · MongoDB · Redis
+
+**DevOps:** Docker · AWS · CI/CD
+
+**Tools:** Claude Code · Postman · Figma · Jira
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patrickrosales&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrosales&layout=compact&theme=radical&hide_border=true)
+
+**1,136 contributions** in the last year
+
+---
+
+## 🚀 What I'm Working On
+
+- Building enterprise-grade web applications
+- Contributing to open-source ecosystems  
+- Exploring modern web architectures and best practices
+- Mentoring developers and sharing knowledge
+
+---
