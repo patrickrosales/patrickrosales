@@ -1,11 +1,3 @@
-# Patrick Rosales
-
-**Senior Software Engineer** | Toronto, Canada 🇨🇦
-
-Building scalable web applications with modern technologies. Passionate about clean code, user experience, and open-source collaboration.
-
----
-
 ## 🎯 Quick Facts
 
 ```javascript
