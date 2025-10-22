@@ -14,6 +14,8 @@ const patrick = {
 };
 ```
 
+---
+
 ### 💻 Tech Stack
 
 #### Frontend
@@ -58,9 +60,9 @@ const patrick = {
 
 ---
 
-## 🚀 What I'm Working On
+### 🚀 What I'm Working On
 
 - Building enterprise-grade web applications
-- Contributing to open-source ecosystems  
+- Contributing to open-source ecosystems
 - Mentoring engineers and spreading knowledge
 - Changing the world one line of code at a time
