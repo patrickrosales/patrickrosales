@@ -1,4 +1,4 @@
-## 🎯 Quick Facts
+### 🎯 Quick Facts
 
 ```javascript
 const patrick = {
@@ -13,10 +13,6 @@ const patrick = {
     }
 };
 ```
-
----
-
-## 💻 Tech Arsenal
 
 ### 💻 Tech Stack
 
@@ -68,5 +64,3 @@ const patrick = {
 - Contributing to open-source ecosystems  
 - Mentoring engineers and spreading knowledge
 - Changing the world one line of code at a time
-
----
