@@ -3,7 +3,7 @@
 ```javascript
 const patrick = {
     location: "Toronto, Canada",
-    role: "Senior Software Engineer",
+    role: "Founding Engineer",
     languages: ["Ruby on Rails", "Python", "Elixir", "JavaScript", "TypeScript"],
     frameworks: ["React", "Node.js", "Next.js", "Ember.js", "Vue.js", "Svelte"],
     currentFocus: ["System Design", "Open Source"],
