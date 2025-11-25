@@ -51,5 +51,3 @@ const patrick = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickrosales&layout=compact&theme=solarized-light&hide_border=true&cache_seconds=0&hide=html&langs_count=8)
