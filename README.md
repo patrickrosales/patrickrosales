@@ -4,9 +4,9 @@
 const patrick = {
     location: "Toronto, Canada",
     role: "Founding Engineer",
-    languages: ["Ruby on Rails", "Python", "Elixir", "JavaScript", "TypeScript"],
-    frameworks: ["React", "Node.js", "Next.js", "Ember.js", "Vue.js", "Svelte"],
-    currentFocus: ["System Design", "Open Source"],
+    languages: ["Python", "TypeScript", "Ruby", "Elixir", "JavaScript", "SQL"],
+    frameworks: ["Django", "Next.js", "Node.js", "Playwright", "Temporal", "React", "Ruby on Rails"],
+    currentFocus: ["AI-powered RPA", "Browser Automation", "Multi-carrier Insurance Integrations"],
     contact: {
         email: "patrick.rosales@gmail.com",
         linkedin: "linkedin.com/in/patrick-rosales"
@@ -30,11 +30,11 @@ const patrick = {
 
 #### Backend
 
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Database
@@ -48,6 +48,7 @@ const patrick = {
 #### DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
