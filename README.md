@@ -6,7 +6,7 @@ const patrick = {
     role: "Founding Engineer",
     languages: ["Python", "TypeScript", "Ruby", "Elixir", "JavaScript", "SQL"],
     frameworks: ["Django", "Next.js", "Node.js", "Playwright", "Temporal", "React", "Ruby on Rails"],
-    currentFocus: ["AI-powered RPA", "Browser Automation", "Multi-carrier Insurance Integrations"],
+    currentFocus: ["AI Agents", "Agentic Workflows", "MCP Integrations", "AI-powered RPA", "Browser Automation"],
     contact: {
         email: "patrick.rosales@gmail.com",
         linkedin: "linkedin.com/in/patrick-rosales"
