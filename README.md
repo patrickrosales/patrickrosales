@@ -4,9 +4,17 @@
 const patrick = {
     location: "Toronto, Canada",
     role: "Founding Engineer",
-    languages: ["Python", "TypeScript", "Ruby", "Elixir", "JavaScript", "SQL"],
-    frameworks: ["Django", "Next.js", "Node.js", "Playwright", "Temporal", "React", "Ruby on Rails"],
-    currentFocus: ["AI Agents", "Agentic Workflows", "MCP Integrations", "AI-powered RPA", "Browser Automation"],
+    languages: ["Python", "TypeScript", "Ruby", "Elixir", "JavaScript", "SQL", "GraphQL"],
+    frameworks: ["Next.js", "Node.js", "React", "Django", "Temporal", "Ruby on Rails"],
+    currentFocus: [
+        "Agentic AI Systems",
+        "Multi-agent Orchestration",
+        "MCP Integrations",
+        "AI-powered RPA",
+        "Tool Use & Function Calling",
+        "RAG Systems",
+        "Human-in-the-Loop Workflows"
+    ],
     contact: {
         email: "patrick.rosales@gmail.com",
         linkedin: "linkedin.com/in/patrick-rosales"
@@ -18,15 +26,23 @@ const patrick = {
 
 ### 💻 Tech Stack
 
+#### AI & Machine Learning
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_Agent-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
 #### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Ember.js](https://img.shields.io/badge/Ember.js-DD0031?style=for-the-badge&logo=emberdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ember.js](https://img.shields.io/badge/Ember.js-DD0031?style=for-the-badge&logo=emberdotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 #### Backend
 
