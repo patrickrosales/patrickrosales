@@ -3,17 +3,16 @@
 ```javascript
 const patrick = {
     location: "Toronto, Canada",
-    role: "Founding Engineer",
+    role: "Staff Engineer",
     languages: ["Python", "TypeScript", "Ruby", "Elixir", "JavaScript", "SQL", "GraphQL"],
     frameworks: ["Next.js", "Node.js", "React", "Django", "Temporal", "Ruby on Rails"],
     currentFocus: [
         "Agentic AI Systems",
         "Multi-agent Orchestration",
-        "MCP Integrations",
+        "Generative AI Video Editing",
         "AI-powered RPA",
         "Tool Use & Function Calling",
-        "RAG Systems",
-        "Human-in-the-Loop Workflows"
+        "Sports Tech & Fan Experience Engineering"
     ],
     contact: {
         email: "patrick.rosales@gmail.com",
