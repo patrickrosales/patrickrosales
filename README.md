@@ -1,69 +1,50 @@
-### About Me
+<img src="assets/hero.svg" alt="Patrick Rosales, Staff Engineer, 0 to 1 Builder, Toronto, Canada" width="100%" />
 
-```javascript
-const patrick = {
-    location: "Toronto, Canada",
-    role: "Staff Engineer",
-    languages: ["Python", "TypeScript", "Ruby", "Elixir", "JavaScript", "SQL", "GraphQL"],
-    frameworks: ["Next.js", "Node.js", "React", "Django", "Temporal", "Ruby on Rails"],
-    currentFocus: [
-        "Agentic AI Systems",
-        "Multi-agent Orchestration",
-        "Generative AI Video Editing",
-        "AI-powered RPA",
-        "Tool Use & Function Calling",
-        "Sports Tech & Fan Experience Engineering"
-    ],
-    contact: {
-        email: "patrick.rosales@gmail.com",
-        linkedin: "linkedin.com/in/patrick-rosales"
-    }
-};
-```
-
----
-
-### Tech Stack
+### Stack
 
 #### AI & Machine Learning
 
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_Agent-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-161614?style=for-the-badge&logo=anthropic&logoColor=f4f5ef)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-161614?style=for-the-badge&logo=amazon-aws&logoColor=f4f5ef)
+![OpenAI](https://img.shields.io/badge/OpenAI-161614?style=for-the-badge&logo=openai&logoColor=f4f5ef)
+![Cursor](https://img.shields.io/badge/Cursor_Agent-161614?style=for-the-badge&logo=cursor&logoColor=f4f5ef)
 
 #### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ember.js](https://img.shields.io/badge/Ember.js-DD0031?style=for-the-badge&logo=emberdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-161614?style=for-the-badge&logo=react&logoColor=f4f5ef)
+![Next.js](https://img.shields.io/badge/Next.js-161614?style=for-the-badge&logo=nextdotjs&logoColor=f4f5ef)
+![TypeScript](https://img.shields.io/badge/TypeScript-161614?style=for-the-badge&logo=typescript&logoColor=f4f5ef)
+![JavaScript](https://img.shields.io/badge/JavaScript-161614?style=for-the-badge&logo=javascript&logoColor=f4f5ef)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-161614?style=for-the-badge&logo=tailwind-css&logoColor=f4f5ef)
+![Ember.js](https://img.shields.io/badge/Ember.js-161614?style=for-the-badge&logo=emberdotjs&logoColor=f4f5ef)
+![Svelte](https://img.shields.io/badge/Svelte-161614?style=for-the-badge&logo=svelte&logoColor=f4f5ef)
+![Angular](https://img.shields.io/badge/Angular-161614?style=for-the-badge&logo=angular&logoColor=f4f5ef)
 
 #### Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-161614?style=for-the-badge&logo=python&logoColor=f4f5ef)
+![Django](https://img.shields.io/badge/Django-161614?style=for-the-badge&logo=django&logoColor=f4f5ef)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-161614?style=for-the-badge&logo=ruby-on-rails&logoColor=f4f5ef)
+![Node.js](https://img.shields.io/badge/Node.js-161614?style=for-the-badge&logo=nodedotjs&logoColor=f4f5ef)
+![Elixir](https://img.shields.io/badge/Elixir-161614?style=for-the-badge&logo=elixir&logoColor=f4f5ef)
+![Java](https://img.shields.io/badge/Java-161614?style=for-the-badge&logo=openjdk&logoColor=f4f5ef)
 
 #### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161614?style=for-the-badge&logo=postgresql&logoColor=f4f5ef)
+![MongoDB](https://img.shields.io/badge/MongoDB-161614?style=for-the-badge&logo=mongodb&logoColor=f4f5ef)
+![Redis](https://img.shields.io/badge/Redis-161614?style=for-the-badge&logo=redis&logoColor=f4f5ef)
+![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-161614?style=for-the-badge&logo=amazon-rds&logoColor=f4f5ef)
+![Oracle](https://img.shields.io/badge/Oracle-161614?style=for-the-badge&logo=oracle&logoColor=f4f5ef)
 
 #### DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-161614?style=for-the-badge&logo=docker&logoColor=f4f5ef)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-161614?style=for-the-badge&logo=kubernetes&logoColor=f4f5ef)
+![AWS](https://img.shields.io/badge/AWS-161614?style=for-the-badge&logo=amazon-aws&logoColor=f4f5ef)
+![Terraform](https://img.shields.io/badge/Terraform-161614?style=for-the-badge&logo=terraform&logoColor=f4f5ef)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161614?style=for-the-badge&logo=github-actions&logoColor=f4f5ef)
+
+<br>
+
+<img src="assets/footer.svg" alt="" width="100%" />
