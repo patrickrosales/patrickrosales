@@ -1,4 +1,4 @@
-### 🎯 Quick Facts
+### About Me
 
 ```javascript
 const patrick = {
@@ -23,7 +23,7 @@ const patrick = {
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 #### AI & Machine Learning
 
